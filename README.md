@@ -1,3 +1,3 @@
-#Machine Learning Project
+## Machine Learning Project
 ## Spaceship Titanic Kaggle Competition
 
